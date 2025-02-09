@@ -1,6 +1,4 @@
-Here's a well-structured **README.md** file for your project. It includes a project description, setup instructions, usage guide, and dependencies.
 
----
 
 # **PDF Operations Tool 📝**
 
